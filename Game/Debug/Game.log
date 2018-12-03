@@ -1,0 +1,35 @@
+﻿  BrightFilterEffect.cpp
+c:\users\patri\desktop\game\game\brightfiltereffect.cpp(6): warning C4996: 'sf::Shader::setParameter': was declared deprecated
+  c:\users\patri\desktop\game\game\sfml-2.4.2\include\sfml\graphics\shader.hpp(626): note: see declaration of 'sf::Shader::setParameter'
+  BloomEffect.cpp
+c:\users\patri\desktop\game\game\bloomeffect.cpp(23): warning C4996: 'sf::Shader::setParameter': was declared deprecated
+  c:\users\patri\desktop\game\game\sfml-2.4.2\include\sfml\graphics\shader.hpp(618): note: see declaration of 'sf::Shader::setParameter'
+c:\users\patri\desktop\game\game\bloomeffect.cpp(24): warning C4996: 'sf::Shader::setParameter': was declared deprecated
+  c:\users\patri\desktop\game\game\sfml-2.4.2\include\sfml\graphics\shader.hpp(554): note: see declaration of 'sf::Shader::setParameter'
+c:\users\patri\desktop\game\game\bloomeffect.cpp(25): warning C4996: 'sf::Shader::setParameter': was declared deprecated
+  c:\users\patri\desktop\game\game\sfml-2.4.2\include\sfml\graphics\shader.hpp(554): note: see declaration of 'sf::Shader::setParameter'
+c:\users\patri\desktop\game\game\bloomeffect.cpp(26): warning C4996: 'sf::Shader::setParameter': was declared deprecated
+  c:\users\patri\desktop\game\game\sfml-2.4.2\include\sfml\graphics\shader.hpp(554): note: see declaration of 'sf::Shader::setParameter'
+c:\users\patri\desktop\game\game\bloomeffect.cpp(27): warning C4996: 'sf::Shader::setParameter': was declared deprecated
+  c:\users\patri\desktop\game\game\sfml-2.4.2\include\sfml\graphics\shader.hpp(554): note: see declaration of 'sf::Shader::setParameter'
+  Bullet.cpp
+  Game.cpp
+  HorizontalBlurEffect.cpp
+c:\users\patri\desktop\game\game\horizontalblureffect.cpp(15): warning C4996: 'sf::Shader::setParameter': was declared deprecated
+  c:\users\patri\desktop\game\game\sfml-2.4.2\include\sfml\graphics\shader.hpp(554): note: see declaration of 'sf::Shader::setParameter'
+  Main.cpp
+  Particle.cpp
+  ParticleManager.cpp
+  Player.cpp
+  PlayState.cpp
+  ResourceManager.cpp
+  VerticalBlurEffect.cpp
+c:\users\patri\desktop\game\game\verticalblureffect.cpp(16): warning C4996: 'sf::Shader::setParameter': was declared deprecated
+  c:\users\patri\desktop\game\game\sfml-2.4.2\include\sfml\graphics\shader.hpp(554): note: see declaration of 'sf::Shader::setParameter'
+  WaveEffect.cpp
+c:\users\patri\desktop\game\game\waveeffect.cpp(16): warning C4996: 'sf::Shader::setParameter': was declared deprecated
+  c:\users\patri\desktop\game\game\sfml-2.4.2\include\sfml\graphics\shader.hpp(554): note: see declaration of 'sf::Shader::setParameter'
+c:\users\patri\desktop\game\game\waveeffect.cpp(17): warning C4996: 'sf::Shader::setParameter': was declared deprecated
+  c:\users\patri\desktop\game\game\sfml-2.4.2\include\sfml\graphics\shader.hpp(554): note: see declaration of 'sf::Shader::setParameter'
+  Generating Code...
+  Game.vcxproj -> C:\Users\patri\Desktop\Game\Debug\Game.exe
